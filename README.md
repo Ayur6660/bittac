@@ -1,3 +1,4 @@
+![screenshot](https://github.com/Ayur6660/bittac/assets/129956479/3ce39030-abe4-406e-b6b2-28546f3274bf)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
