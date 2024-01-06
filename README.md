@@ -1,5 +1,6 @@
 ![screenshot](https://github.com/Ayur6660/bittac/assets/129956479/3ce39030-abe4-406e-b6b2-28546f3274bf)
-![screenshot1](https://github.com/Ayur6660/bittac/assets/129956479/f8e9f738-69f5-42fb-93f7-68b3d887e79d)
+![screenshot2](https://github.com/Ayur6660/bittac/assets/129956479/0c4ecf7f-9e15-4a2c-a8bc-aba7a8632fc2)
+
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
